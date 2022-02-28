@@ -1,0 +1,10 @@
+siapkan panci
+isi panci dengan air bersih
+letakkan panci di atas kompor
+nyalakan kompor
+jika air dalam panci sudah mendidih, matikan kompor
+siapkan gelas
+tambahkan 1-2 sendok makan bubuk kopi instan ke dalam gelas
+tuang air panas ke dalam gelas
+aduk kopi menggunakan sendok
+kopi siap disajikan
