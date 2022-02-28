@@ -1,0 +1,13 @@
+git status: ngecek status 
+git add (nama file/folder): nambahin file/folder ke dalam local repository
+git commit -m "komennya": mindahin dari yg local repository ke staging area
+git log: loat log terakhir yg dilakukan
+git remote add origin "url repository": konekin remote repository
+git remote -v: ngecek remote repository udah konek atau belum
+git push origin master: mindahin file/folder dari staging area ke remote repository
+git remote set-url origin "url repository": ganti url remote repository
+git branch: cek sekarang di branch yang mana
+git branch (nama branch): bikin branch baru
+git branch -D (nama branch): hapus branch
+git checkout (nama branch): pindah ke branch tujuan
+git merge (nama branch): gabungin branch tertentu ke branch utama
