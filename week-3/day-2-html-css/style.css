@@ -1,0 +1,36 @@
+/* SELECTOR */
+/* by tag html */
+/* akan meng-highlight tag yang ada */
+p{
+    color: lightcoral;
+    word-spacing: 2px;
+}
+/* by class name */
+.waifu{
+    color: red;
+}
+/* by id name */
+#deck{
+    list-style: circle;
+}
+
+/* SIZING */
+/* px, em, rem */
+.kotak{
+    width: 10rem;
+    height: 10rem;
+    background: lightgreen;
+    box-sizing: border-box;
+}
+/* margin dan padding dan border*/
+.kotak1{
+    width: 10rem;
+    height: 10rem;
+    margin: 20px 40px 60px 40px;
+    padding-top: 20px;
+    border: 1px solid black;
+    background: lightskyblue;
+    overflow: auto;
+}
+
+
