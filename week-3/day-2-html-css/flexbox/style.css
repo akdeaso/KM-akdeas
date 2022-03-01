@@ -1,0 +1,28 @@
+/* LAYOUTING */
+/* flexbox */
+.navbar{
+    background: darkgrey;
+    flex-wrap: wrap;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; /*flex-direction ngikut justify-content*/
+    align-items: center;
+    padding: 10px;
+}
+.kotak{
+    height: 80px;
+    flex: 1;
+    display: flex;
+    background-color: lightcyan;
+    align-items: center;
+    justify-content: center;
+}
+.kotak1{
+    height: 80px;
+    flex:1;
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    background-color: skyblue;
+}
